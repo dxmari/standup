@@ -1,1 +1,1 @@
-# standup.github.io
+# This is a standup generator
